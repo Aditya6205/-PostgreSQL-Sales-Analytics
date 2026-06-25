@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Region,Launch_Year,Price,Stock
+1,Wildcraft Product 1,Travel Accessory,North,2026,3162.95,87
+2,Wildcraft Product 2,Jacket,West,2022,5017.32,215
+3,Wildcraft Product 3,Duffel Bag,West,2021,7680.07,658
+4,Wildcraft Product 4,Jacket,East,2022,9068.25,412
+5,Wildcraft Product 5,Travel Accessory,South,2020,9522.22,79
+6,Wildcraft Product 6,Travel Accessory,East,2026,3016.55,221
+7,Wildcraft Product 7,Travel Accessory,East,2022,7883.33,204
+8,Wildcraft Product 8,Jacket,West,2024,877.37,176
+9,Wildcraft Product 9,Travel Accessory,West,2020,2532.6,159
+10,Wildcraft Product 10,Backpack,South,2022,9774.07,502
+11,Wildcraft Product 11,Travel Accessory,South,2024,6748.31,714
+12,Wildcraft Product 12,Travel Accessory,East,2021,8987.98,383
+13,Wildcraft Product 13,Trekking Shoes,West,2020,650.9,900
+14,Wildcraft Product 14,Duffel Bag,West,2025,2065.26,278
+15,Wildcraft Product 15,Travel Accessory,North,2025,1379.76,996
+16,Wildcraft Product 16,Trekking Shoes,South,2023,4048.28,294
+17,Wildcraft Product 17,Duffel Bag,East,2024,602.0,504
+18,Wildcraft Product 18,Trekking Shoes,South,2020,5554.04,990
+19,Wildcraft Product 19,Travel Accessory,West,2023,2758.3,140
+20,Wildcraft Product 20,Trekking Shoes,West,2024,582.45,456
+21,Wildcraft Product 21,Backpack,East,2020,5004.53,323
+22,Wildcraft Product 22,Rainwear,East,2020,5377.75,59
+23,Wildcraft Product 23,Backpack,East,2020,4952.31,854
+24,Wildcraft Product 24,Trekking Shoes,East,2023,6785.92,588
+25,Wildcraft Product 25,Duffel Bag,South,2026,8570.37,185
+26,Wildcraft Product 26,Travel Accessory,East,2024,4957.78,646
+27,Wildcraft Product 27,Backpack,West,2020,5871.45,908
+28,Wildcraft Product 28,Rainwear,North,2024,2554.99,337
+29,Wildcraft Product 29,Travel Accessory,East,2020,8441.02,445
+30,Wildcraft Product 30,Travel Accessory,West,2021,4987.97,144
+31,Wildcraft Product 31,Duffel Bag,East,2022,7198.71,692
+32,Wildcraft Product 32,Duffel Bag,East,2026,3758.26,943
+33,Wildcraft Product 33,Backpack,North,2025,6823.06,388
+34,Wildcraft Product 34,Trekking Shoes,West,2020,6851.63,222
+35,Wildcraft Product 35,Duffel Bag,East,2021,1497.27,920
+36,Wildcraft Product 36,Trekking Shoes,South,2025,8920.34,462
+37,Wildcraft Product 37,Jacket,South,2025,9610.02,476
+38,Wildcraft Product 38,Travel Accessory,North,2025,2778.83,625
+39,Wildcraft Product 39,Jacket,South,2026,9258.55,467
+40,Wildcraft Product 40,Trekking Shoes,West,2026,2297.27,206
+41,Wildcraft Product 41,Rainwear,West,2021,9058.48,444
+42,Wildcraft Product 42,Backpack,East,2025,7735.24,623
+43,Wildcraft Product 43,Trekking Shoes,South,2026,2819.0,440
+44,Wildcraft Product 44,Rainwear,North,2020,4578.72,274
+45,Wildcraft Product 45,Jacket,West,2025,3502.39,623
+46,Wildcraft Product 46,Travel Accessory,East,2025,8579.37,629
+47,Wildcraft Product 47,Trekking Shoes,South,2022,3566.2,232
+48,Wildcraft Product 48,Backpack,South,2025,4857.31,603
+49,Wildcraft Product 49,Travel Accessory,West,2024,8043.14,480
+50,Wildcraft Product 50,Backpack,East,2025,7309.08,534
+51,Wildcraft Product 51,Trekking Shoes,West,2026,4461.36,96
+52,Wildcraft Product 52,Travel Accessory,North,2025,2054.5,936
+53,Wildcraft Product 53,Duffel Bag,East,2021,5642.87,213
+54,Wildcraft Product 54,Travel Accessory,North,2026,3145.65,657
+55,Wildcraft Product 55,Duffel Bag,North,2021,8731.87,247
+56,Wildcraft Product 56,Travel Accessory,East,2022,2851.51,606
+57,Wildcraft Product 57,Duffel Bag,North,2022,8151.05,959
+58,Wildcraft Product 58,Backpack,West,2024,8203.54,620
+59,Wildcraft Product 59,Backpack,North,2022,6438.28,105
+60,Wildcraft Product 60,Rainwear,East,2025,7387.84,657
+61,Wildcraft Product 61,Travel Accessory,South,2024,2867.23,789
+62,Wildcraft Product 62,Jacket,North,2021,3240.41,991
+63,Wildcraft Product 63,Backpack,South,2021,9014.05,899
+64,Wildcraft Product 64,Jacket,North,2025,2652.27,416
+65,Wildcraft Product 65,Duffel Bag,West,2022,8260.21,966
+66,Wildcraft Product 66,Jacket,North,2026,3056.66,888
+67,Wildcraft Product 67,Backpack,West,2025,2650.5,58
+68,Wildcraft Product 68,Jacket,North,2022,7154.31,237
+69,Wildcraft Product 69,Backpack,West,2026,7375.0,517
+70,Wildcraft Product 70,Trekking Shoes,North,2024,7625.63,513
+71,Wildcraft Product 71,Travel Accessory,North,2023,832.16,103
+72,Wildcraft Product 72,Backpack,South,2024,1110.52,943
+73,Wildcraft Product 73,Backpack,South,2026,4562.11,106
+74,Wildcraft Product 74,Rainwear,North,2024,3990.56,132
+75,Wildcraft Product 75,Rainwear,South,2021,3586.6,219
+76,Wildcraft Product 76,Backpack,South,2020,7772.95,749
+77,Wildcraft Product 77,Duffel Bag,West,2021,6267.29,449
+78,Wildcraft Product 78,Duffel Bag,East,2020,1341.97,352
+79,Wildcraft Product 79,Jacket,East,2023,9445.45,986
+80,Wildcraft Product 80,Jacket,South,2022,944.03,473
+81,Wildcraft Product 81,Duffel Bag,South,2020,5418.24,645
+82,Wildcraft Product 82,Trekking Shoes,South,2020,4899.5,501
+83,Wildcraft Product 83,Travel Accessory,West,2024,4076.71,585
+84,Wildcraft Product 84,Trekking Shoes,South,2026,9277.97,194
+85,Wildcraft Product 85,Trekking Shoes,West,2022,6554.77,918
+86,Wildcraft Product 86,Jacket,East,2025,9186.52,597
+87,Wildcraft Product 87,Duffel Bag,West,2024,800.82,327
+88,Wildcraft Product 88,Travel Accessory,South,2024,8876.8,716
+89,Wildcraft Product 89,Jacket,South,2026,3498.38,880
+90,Wildcraft Product 90,Duffel Bag,East,2023,7015.4,971
+91,Wildcraft Product 91,Duffel Bag,South,2023,5093.09,975
+92,Wildcraft Product 92,Travel Accessory,South,2021,697.76,281
+93,Wildcraft Product 93,Trekking Shoes,South,2020,6906.68,694
+94,Wildcraft Product 94,Duffel Bag,East,2024,6773.41,498
+95,Wildcraft Product 95,Travel Accessory,North,2026,7194.75,647
+96,Wildcraft Product 96,Rainwear,West,2025,9177.82,767
+97,Wildcraft Product 97,Duffel Bag,West,2023,2095.56,989
+98,Wildcraft Product 98,Backpack,West,2023,4759.39,358
+99,Wildcraft Product 99,Trekking Shoes,East,2023,2139.63,426
+100,Wildcraft Product 100,Duffel Bag,North,2022,2201.76,896
